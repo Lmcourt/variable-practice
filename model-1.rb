@@ -8,3 +8,7 @@ space = 1000000000000000
 
 is_studying = false
 can_sing = false
+
+
+characters = ['harry', 'hermione', 'ron']
+instruments = ['guitar', 'cello', 'kalimba']
